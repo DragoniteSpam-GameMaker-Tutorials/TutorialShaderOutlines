@@ -1,5 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"spr_bunny_basic","path":"sprites/spr_bunny_basic/spr_bunny_basic.yy",},"order":16,},
+    {"id":{"name":"shd_outline","path":"shaders/shd_outline/shd_outline.yy",},"order":19,},
+    {"id":{"name":"spr_bunny_cartoon","path":"sprites/spr_bunny_cartoon/spr_bunny_cartoon.yy",},"order":17,},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":15,},
+    {"id":{"name":"spr_bunny_full","path":"sprites/spr_bunny_full/spr_bunny_full.yy",},"order":18,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":14,},
   ],
   "Options": [
